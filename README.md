@@ -25,6 +25,7 @@ What is the total sales amount for that category?
 - Kaggle https://www.kaggle.com/datasets
 - Pandas https://pandas.pydata.org/
 - Python https://www.python.org/
+- Tutorial https://www.datacamp.com/es/tutorial/pandas
 
 # Future Work
 
