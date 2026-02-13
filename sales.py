@@ -28,5 +28,7 @@ df["total_sales"]= df["price"] * df["quantities_sold"]
 # This returns a Series where the index is the category and the value
 #  is the index of the row with the highest total sales for that category.
 total_per_category = df.loc[df.groupby("category")["quantities_sold"].idxmax()]
-print(total_per_category)
 
+# Sort by quantities sold in descending order
+total_per_category.sort_values(by= "quantities_sold", ascending=False, inplace=True)
+print(total_per_category)

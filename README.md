@@ -15,10 +15,7 @@ Which product category generates the highest sales?
 What is the total sales amount for that category?
 
 # Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+Im using python and pandas to analyze the dataset and provide an answer to my questions.
 
 # Useful Websites
 
