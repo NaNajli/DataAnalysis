@@ -15,6 +15,7 @@ Which product category generates the highest sales?
 What is the total sales amount for that category?
 
 # Development Environment
+
 Im using python and pandas to analyze the dataset and provide an answer to my questions.
 
 # Useful Websites
@@ -26,8 +27,8 @@ Im using python and pandas to analyze the dataset and provide an answer to my qu
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+Things that you need to fix or improve.
 
-- Item 1
-- Item 2
-- Item 3
+- Add Averages, maximums and minimums by category
+- Percentage contribution to the total
+- Clearer and more personalized graphics
